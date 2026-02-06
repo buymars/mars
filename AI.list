@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,eventideaudio.com
 DOMAIN-SUFFIX,morningstar.io
 
@@ -46,4 +47,5 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
