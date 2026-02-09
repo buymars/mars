@@ -4,6 +4,7 @@
 DOMAIN-KEYWORD,suno
 DOMAIN-KEYWORD,eventide
 DOMAIN-KEYWORD,morningstar
+DOMAIN-KEYWORD,reddit
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
@@ -50,6 +51,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
 
 
